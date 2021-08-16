@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eswarmaganti
 - 👀 I’m interested in Full Stack Web Development 
-- 🌱 I’m currently learning React NAtive
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me send me a mail maganti.ek@gmail.com
 
